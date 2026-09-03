@@ -337,6 +337,7 @@ docker run -d -p 5000:5000 aiursoft/howtocookviewer
 - [手工水饺](dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](dishes/staple/酸辣蕨根粉.md)
 - [汤面](dishes/staple/汤面.md)
+- [滕州菜煎饼](dishes/staple/滕州菜煎饼.md)
 - [微波炉腊肠煲仔饭](dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [西红柿鸡蛋挂面](dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [鲜肉烧卖](dishes/staple/鲜肉烧卖.md)
